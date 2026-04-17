@@ -1,0 +1,9 @@
+{
+  "name": "Mazen Khaled Portfolio",
+  "short_name": "Mazen AI",
+  "description": "Premium God-Mode Developer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#a252ff"
+}
